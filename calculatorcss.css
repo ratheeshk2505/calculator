@@ -1,0 +1,22 @@
+.size{
+    width: 310px;
+    height: 350px;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+
+.btnsize{
+    width: 55px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: white;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.displaysett{
+    width: 96%;
+    height: 40px;
+    font-size: 25px;
+    margin-right: 50px;
+}
